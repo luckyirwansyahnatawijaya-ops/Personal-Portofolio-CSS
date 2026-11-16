@@ -2,7 +2,7 @@
 
 A responsive multi-page personal portfolio built with semantic HTML5 and vanilla CSS, created for the [roadmap.sh Frontend Developer](https://roadmap.sh/projects/portfolio-website) track.
 
-**Live Site:** https://luckyirwansyahnatawijaya-ops.github.io/Personal-Portfolio-CSS/
+**Live Site:** https://luckyirwansyahnatawijaya-ops.github.io/Personal-Portofolio-CSS/
 
 ## Pages
 
